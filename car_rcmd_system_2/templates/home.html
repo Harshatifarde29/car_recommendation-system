@@ -1,0 +1,55 @@
+<html>
+  <head>
+ <title>Car recommendation system </title>
+<style>
+ .nav{box-shadow: none !important;
+  background-color : lightyellow !important;
+  color: goldenrod !important;
+  outline: none !important; height:1.2cm;
+}
+
+*{font-size:30px}
+form{background-color: grey; width:30%; border-radius:10px; margin-top:1px;
+     position:fixed; left:90px}
+body{
+  background-image: url(https://i.pinimg.com/originals/de/0f/4b/de0f4bf6e8075312a6eb20ad7044571a.jpg); 
+  background-size: cover;
+  }
+</style>
+  </head>
+
+  <body>
+    <div class="nav">
+      <h1><b>CarRental.com</b></h1>
+    </div>
+    <div class="form">
+   <center>
+
+     <h1>Car Recommendation System </h1>
+     <form method="POST" align:left>
+         <label> <h2> Enter no. of person :</h2><label/>
+         <input type="number" name="num"  placeholder="no. of person " required />
+         <br>
+        
+         <label> <h2> Enter your per hour budget :</h2><label/>
+         <input type="number" name="budget"  placeholder="enter budget " required />
+         <br>
+         <label> <h2> Fuel type? </h2><label/>
+         <input type="radio" name="fuel"  value="Petrol" checked=true />Petrol
+         <input type="radio" name="fuel"  value="Electrical"  />Electrical
+         <input type="radio" name="fuel"  value="Diesel"  />Diesel
+         <br><br>
+        <input type="submit"   value="recommend"  />
+        <br>
+     </form>
+
+    {{m}}
+   </center>
+     
+    </div>
+
+
+  </body>
+
+
+</html>

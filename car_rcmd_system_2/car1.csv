@@ -1,0 +1,75 @@
+﻿person,Fuel Type,budget,car
+1,petrol,300,Maruti Swift
+2,petrol,300,Maruti Swift
+3,petrol,300,Maruti Swift
+4,petrol,300,Maruti Swift
+5,petrol,300,Maruti Swift
+6,petrol,300,budget is low
+7,petrol,300,budget is low
+8,petrol,300,budget is low
+1,petrol,400,Honda city
+2,petrol,400,Honda city
+3,petrol,400,Honda city
+4,petrol,400,Honda city
+5,petrol,400,Honda city
+6,petrol,400,budget is low
+7,petrol,400,budget is low
+8,petrol,400,budget is low
+8,petrol,700,budget is low
+6,petrol,700,budget is low
+7,petrol,700,budget is low
+1,petrol,1000,Bmw  series 7
+2,petrol,1000,Bmw  series 7
+3,petrol,1000,Bmw  series 7
+4,petrol,1000,Bmw  series 7
+5,petrol,1000,Bmw  series 7
+6,petrol,1000,Bmw  series 7
+7,petrol,1000,Bmw  series 7
+8,petrol,1000,Bmw  series 7
+1,petrol,1500,Ford Mustang
+2,petrol,1500,Ford Mustang
+2,petrol,1500,Ford Mustang
+6,petrol,800,Ertiga
+7,petrol,800,Ertiga
+8,petrol,800,Ertiga
+6,petrol,1100,Fortuner
+7,petrol,1100,Fortuner
+8,petrol,1100,Fortuner
+1,electrical,500,Tata Nexon
+2,electrical,500,Tata Nexon
+3,electrical,500,Tata Nexon
+4,electrical,500,Tata Nexon
+6,electrical,500,budget is low
+7,electrical,500,budget is low
+8,electrical,500,budget is low
+5,electrical,500,Tata Nexon
+1,electrical,300,Tata tiago
+2,electrical,300,Tata tiago
+3,electrical,300,Tata tiago
+4,electrical,300,Tata tiago
+5,electrical,300,Tata tiago
+6,electrical,800,budget is low
+7,electrical,800,budget is low
+8,electrical,800,budget is low
+6,electrical,1000,Tata Safari
+7,electrical,1000,Tata Safari
+8,electrical,1000,Tata Safari
+1,Diesel,300,Maruti Alto
+2,Diesel,300,Maruti Alto
+3,Diesel,300,Maruti Alto
+4,Diesel,300,Maruti Alto
+5,Diesel,300,Maruti Alto
+6,Diesel,500,budget is low
+7,Diesel,500,budget is low
+8,Diesel,500,budget is low
+1,Diesel,500,Maruti Alto
+2,Diesel,500,Maruti Alto
+3,Diesel,500,Maruti Alto
+4,Diesel,500,Maruti Alto
+5,Diesel,500,Maruti Alto
+6,Diesel,800,budget is low
+7,Diesel,800,budget is low
+8,Diesel,800,budget is low
+6,Diesel,1000,Innova
+7,Diesel,1000,Innova
+8,Diesel,1000,Innova
